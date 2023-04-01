@@ -26,4 +26,4 @@ Por ejemplo:
 Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del "ctrl+c" o de la opción "copiar" del menú de las aplicaciones.
 
-
+![Encriptador 1](https://user-images.githubusercontent.com/121143931/211471354-129e60b4-c5c4-4620-af84-566793319515.png)
